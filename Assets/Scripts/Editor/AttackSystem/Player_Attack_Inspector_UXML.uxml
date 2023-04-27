@@ -1,0 +1,4 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="True">
+    <ui:Label text="Combo label created in UI Builder" display-tooltip-when-elided="true" name="Combo" />
+    <ui:TextField picking-mode="Ignore" label="name" value="filler text" text="filler text" binding-path="name" />
+</ui:UXML>
